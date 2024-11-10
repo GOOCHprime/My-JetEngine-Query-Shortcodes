@@ -6,7 +6,7 @@
  * Version: 1.1.0
  * Author: Luca Gallucci
  * Author URI: https://legworkmedia.ca
- * License: GPL2
+ * License: GNU General Public License v3.0
  * Text Domain: my-jetengine-query-shortcodes
  */
 
